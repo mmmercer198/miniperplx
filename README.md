@@ -4,7 +4,7 @@
 
 A minimalistic AI-powered search engine that helps you find information on the internet.
 
-## ProductHunt Launch
+## ProductHunt Launch TV 
 
 Upvote MiniPerplx on ProductHunt to show your support!
 
